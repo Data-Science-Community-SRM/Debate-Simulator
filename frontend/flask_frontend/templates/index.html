@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DebateSim</title>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>DebateSim</h1>
+        </header>
+        
+        <main>
+            <section class="debate-controls">
+                <input type="text" id="motion" value="AI will benefit humanity" placeholder="Enter debate motion">
+                <button onclick="startDebate()" id="startButton" class="btn primary">Start Debate</button>
+                <button id="nextRoundButton" class="btn secondary" style="display: none;" onclick="startNextRound()">Next Round</button>
+            </section>
+
+            <section class="debate-info">
+                <div class="round-indicator">
+                    <span class="label">Round:</span>
+                    <span id="currentRound" class="value">0</span>
+                    <span class="total">/3</span>
+                </div>
+                <div class="turn-indicator" style="margin-top: 10px;">
+                    <span class="label">Current Turn:</span>
+                    <span id="currentSpeaker" class="value">-</span>
+                </div>
+            </section>
+
+            <section class="debate-progress">
+                <div class="progress-bar">
+                    <div class="progress" id="debateProgress"></div>
+                </div>
+            </section>
+    
+            <section class="debate-container">
+                <div class="debate-column proponent-column">
+                    <h3>Proponent</h3>
+                    <div id="proponentLog" class="speaker-log"></div>
+                </div>
+                
+                <div class="debate-column opponent-column">
+                    <h3>Opponent</h3>
+                    <div id="opponentLog" class="speaker-log"></div>
+                </div>
+            </section>
+    
+            <section class="fact-checks">
+                <h3>Fact Checks</h3>
+                <div id="factCheckResults"></div>
+            </section>
+        </main>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>
