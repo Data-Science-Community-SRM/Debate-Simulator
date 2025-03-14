@@ -1,14 +1,14 @@
 <p align="center">
 <a href="https://dscommunity.in">
-	<img src="https://raw.githubusercontent.com/Data-Science-Community-SRM/Debate-Simulator/main/static/images/header.png" width=80%/>
+	<img src="https://github.com/Data-Science-Community-SRM/template/blob/master/Header.png?raw=true" width=80%/>
 </a>
 	<h2 align="center"> AI Debate Simulator </h2>
 	<h4 align="center"> A real-time AI-powered debate simulator using FastAPI, LangGraph, and local LLMs. <h4>
 </p>
 
 ---
-[![Documentation](https://img.shields.io/badge/Documentation-See%20Docs-green?style=flat-square&logo=readthedocs)](https://example.com/ai-debate-simulator/docs)
-[![UI Demo](https://img.shields.io/badge/User%20Interface-Live%20Demo-orange?style=flat-square&logo=appveyor)](https://example.com/ai-debate-simulator/demo)
+[![Documentation](https://img.shields.io/badge/Documentation-See%20Docs-green?style=flat-square&logo=readthedocs)](https://github.com/Data-Science-Community-SRM/Debate-Simulator)
+
 
 ## Preview
 - The AI Debate Simulator is a dynamic application that pits an AI proponent against an AI opponent in structured debates. Real-time updates keep users engaged, while a streamlined user interface makes it easy to explore a variety of debate topics.
@@ -26,6 +26,19 @@
 - [x] Arguments are generated with both cloud-based and local LLMs, managed for optimal performance.
 - [x] Interactive UI with round indicators and progress tracking.
 <br>
+
+## Preview
+
+### Home Page
+<p align="center">
+    <img src="frontend/flask_frontend/static//Home.png" width="80%" alt="AI Debate Simulator Home Page"/>
+</p>
+
+### Debate in Progress
+<p align="center">
+    <img src="frontend/flask_frontend/static//Round-1 result.png" width="80%" alt="AI Debate in Progress"/>
+</p>
+
 
 ## Instructions to Run
 
