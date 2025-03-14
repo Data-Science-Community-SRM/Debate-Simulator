@@ -103,7 +103,7 @@
   <tr align="center">
     <td>
       <a href="https://github.com/adityaxdubey">
-        <img src="[frontend/flask_frontend/static//Aditya-Dubey1.jpg](frontend/flask_frontend/static//Aditya-Dubey1.jpg)" height="120" alt="Aditya Dubey"/>
+        <img src="https://avatars.githubusercontent.com/u/112084007?v=4" height="120" alt="Aditya Dubey"/>
       </a>
       <p align="center">
         <a href="https://github.com/adityaxdubey">
