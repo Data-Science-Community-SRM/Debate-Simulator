@@ -20,9 +20,11 @@
 
 - [x]  Real-time argument generation by AI agents.
 - [x]  Turn-based debate flow managed by LangGraph.
-- [x]  Local and cloud-based LLM inference.
-- [x]  Interactive UI with round indicators and progress tracking.
-- [x]  Web sockets for fast requests.
+- [x]  Utilizes **WebSockets** for seamless, real-time communication between the backend and frontend.
+- [x] Employs a cloud-based model, **GPT-3.5-turbo**, for the proponent.
+- [x] Leverages a local LLM, **Mistral-7B-v0.1**, for the opponent.
+- [x] Arguments are generated with both cloud-based and local LLMs, managed for optimal performance.
+- [x] Interactive UI with round indicators and progress tracking.
 <br>
 
 ## Instructions to Run
@@ -31,6 +33,7 @@
     - Python 3.9+
     - Conda or venv set up for virtual environment management.
     - CUDA-enabled GPU (for optimal local LLM performance).
+    - **Mistral-7B-v0.1 GGUF model**: You can download the quantized model file (e.g., `mistral-7b-v0.1.Q4_K_M.gguf`) from [TheBloke's Hugging Face repository](https://huggingface.co/TheBloke/Mistral-7B-v0.1-GGUF). Place the downloaded file in the `backend/models/` directory.
 
 * Installation:
     - Clone the repository:
@@ -74,7 +77,8 @@
     cd flask_frontend
     flask run --port 5000
     ```
-
+### Storage
+   - We have used chrome DB with sqlite3
 ## Contributors
 
 <table>
