@@ -12,9 +12,7 @@
 
 ## Preview
 - The AI Debate Simulator is a dynamic application that pits an AI proponent against an AI opponent in structured debates. Real-time updates keep users engaged, while a streamlined user interface makes it easy to explore a variety of debate topics.
-<p align="center">
-    <img src="https://raw.githubusercontent.com/Data-Science-Community-SRM/Debate-Simulator/main/static/images/simulator.png" width=60%/>
-</p>
+
 
 ## Functionalities
 
