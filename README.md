@@ -97,31 +97,19 @@
 <table>
   <tr align="center">
     <td>
-      <a href="github.com/adityaxdubey">
-        <img src="[https://avatars.githubusercontent.com/u/0000000?v=4](https://media.licdn.com/dms/image/v2/D5603AQGVhbZVk4NksQ/profile-displayphoto-shrink_400_400/B56ZQluq8IGQAg-/0/1735799780169?e=1747267200&v=beta&t=gmEZLLhj4vUvhfyczebXd_S1DJ6mrPl5NDfLMx2sQH4)" height="120" alt="Aditya Dubey"/>
+      <a href="https://github.com/adityaxdubey">
+        <img src="[https://avatars.githubusercontent.com/u/0000000?v=4](frontend/flask_frontend/static//Aditya-Dubey.jpg)" height="120" alt="Aditya Dubey"/>
       </a>
       <p align="center">
-        <a href="https://github.com/your-github-username-1">
+        <a href="https://github.com/adityaxdubey">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/>
         </a>
-        <a href="https://www.linkedin.com/in/your-linkedin-profile-1">
+        <a href="[https://www.linkedin.com/in/your-linkedin-profile-1](https://www.linkedin.com/in/adityaxdubey/)">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
     </td>
-    <td>
-      <a href="https://github.com/your-github-username-2">
-        <img src="https://avatars.githubusercontent.com/u/0000000?v=4" height="120" alt="Your Name Here"/>
-      </a>
-      <p align="center">
-        <a href="https://github.com/your-github-username-2">
-          <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/>
-        </a>
-        <a href="https://www.linkedin.com/in/your-linkedin-profile-2">
-          <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
-        </a>
-      </p>
-    </td>
+
   </tr>
 </table>
 
