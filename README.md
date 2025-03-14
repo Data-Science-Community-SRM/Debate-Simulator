@@ -106,6 +106,8 @@
         <img src="https://avatars.githubusercontent.com/u/112084007?v=4" height="120" alt="Aditya Dubey"/>
       </a>
       <p align="center">
+	      Aditya Dubey
+	      <br/>
         <a href="https://github.com/adityaxdubey">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/>
         </a>
