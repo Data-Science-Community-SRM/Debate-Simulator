@@ -27,6 +27,11 @@
 - [x] Interactive UI with round indicators and progress tracking.
 <br>
 
+## Architecture
+<p align="center">
+    <img src="Architecture Diagram_white.png" width="80%" alt="AI Debate Simulator Architecture"/>
+</p>
+
 ## Preview
 
 ### Home Page
@@ -104,7 +109,7 @@
         <a href="https://github.com/adityaxdubey">
           <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height="36"/>
         </a>
-        <a href="[https://www.linkedin.com/in/your-linkedin-profile-1](https://www.linkedin.com/in/adityaxdubey/)">
+        <a href="[[https://www.linkedin.com/in/your-linkedin-profile-1](https://www.linkedin.com/in/adityaxdubey/)](https://www.linkedin.com/in/adityaxdubey/)">
           <img src="http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
         </a>
       </p>
